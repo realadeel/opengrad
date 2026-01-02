@@ -9,7 +9,7 @@ A 4-year, self-directed program covering the continental tradition from Plato th
 
 **Status:** Year 1, Semester 1 — *Starts January 5, 2026*
 
-[Join the Discord →](https://discord.gg/zShFFGXAdQ)
+[Join the Discord →](https://discord.gg/Ry8XVHDMRH)
 
 ---
 
