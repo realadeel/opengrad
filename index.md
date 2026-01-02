@@ -48,6 +48,10 @@ You read alone. You write alone. You struggle alone. The AI never intervenes dur
 3. **Discuss** (1-2 hours): Engage with AI to test interpretations, face challenges, deepen understanding
 4. **Revise thinking**: Based on discussion, refine your grasp of the material
 
+### Stay on Track
+
+Join the Discord to receive notifications about current unit readings and assignments. The bot keeps you informed of what's due and what's next.
+
 ---
 
 ## Programs
