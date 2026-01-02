@@ -101,4 +101,4 @@ Pursuing your own questions with the full tradition behind you.
 
 ---
 
-[← Back to OpenGrad](/)
+[← Back to OpenGrad](../)
