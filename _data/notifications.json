@@ -1,0 +1,126 @@
+{
+  "continental-philosophy": {
+    "semester-1": {
+      "unit-1": {
+        "week-1": [
+          "Begin Euthyphro — observe how Socrates questions definitions without offering his own.",
+          "Continue Euthyphro — what is the Euthyphro dilemma and why does it matter?",
+          "Start Apology — Socrates claims to know nothing. Is this genuine or ironic?",
+          "Finish Apology and read Crito — why does Socrates refuse to escape?",
+          "Writing due: 500 words on Socratic ignorance (Apology 21d)."
+        ],
+        "week-2": [
+          "Begin Meno — can virtue be taught? Notice how quickly Meno gets frustrated.",
+          "Meno's paradox (80d-e) — how can we search for what we don't know?",
+          "The slave boy demonstration — is this proof of recollection convincing?",
+          "Finish Meno — true belief vs knowledge. What's the difference?",
+          "Writing due: 500 words on the paradox of inquiry."
+        ],
+        "week-3": [
+          "Begin Phaedo — this is demanding. Take your time with the arguments.",
+          "Phaedo continued — the argument from opposites and the argument from recollection.",
+          "Phaedo continued — the affinity argument (78b-84b). Is the soul like the forms?",
+          "Finish Phaedo — the final argument and Socrates' death. Sit with this.",
+          "Writing due: 500 words on the affinity argument."
+        ],
+        "week-4": [
+          "Synthesis week — no new reading. Re-read key passages from all four dialogues.",
+          "Reflection: How does Socratic method relate to the theory of forms?",
+          "Reflection: What is the relationship between knowledge and virtue?",
+          "Reflection: Why does Plato write dialogues, not treatises?",
+          "Unit essay due: 2,000 words on the theory of forms."
+        ]
+      },
+      "unit-2": {
+        "week-1": [
+          "Begin Republic Book I — Socrates vs Thrasymachus on justice.",
+          "Republic I continued — is justice the advantage of the stronger?",
+          "Republic II begins — Glaucon's challenge and the Ring of Gyges.",
+          "Republic II continued — why be just if you could get away with injustice?",
+          "Writing due: 500 words on Thrasymachus' challenge."
+        ],
+        "week-2": [
+          "Republic III-IV — the city in speech and the tripartite soul.",
+          "The allegory of the allegory — rulers, auxiliaries, producers.",
+          "Justice in the soul — reason, spirit, appetite.",
+          "The allegory of metals — noble lies and social order.",
+          "Writing due: 500 words on the tripartite soul."
+        ],
+        "week-3": [
+          "Republic V-VII — the philosopher-kings and the forms.",
+          "The three waves — women guardians, community of families, philosopher-kings.",
+          "The Sun, Line, and Cave — Plato's epistemology and metaphysics.",
+          "The allegory of the cave — what does liberation look like?",
+          "Writing due: 500 words on the allegory of the cave."
+        ],
+        "week-4": [
+          "Republic VIII-X — the decline of regimes and the critique of poetry.",
+          "The five regimes — aristocracy to tyranny.",
+          "Republic X — why does Plato banish the poets?",
+          "The Allegory of Er — myth and argument.",
+          "Unit essay due: 2,000 words on justice in the soul and city."
+        ]
+      },
+      "unit-3": {
+        "week-1": [
+          "Begin Categories and De Interpretatione — Aristotle's logic.",
+          "The categories — substance, quantity, quality, relation...",
+          "De Interpretatione — statements, truth, and the square of opposition.",
+          "The sea battle problem — future contingents.",
+          "Writing due: 500 words on substance in the Categories."
+        ],
+        "week-2": [
+          "Begin Metaphysics — 'All men by nature desire to know.'",
+          "Metaphysics I — the four causes. Why four?",
+          "Metaphysics I continued — critique of Plato's forms.",
+          "Why does Aristotle reject the forms? What's his alternative?",
+          "Writing due: 500 words on Aristotle's critique of the forms."
+        ],
+        "week-3": [
+          "Metaphysics VII — substance, essence, and the 'what it was to be.'",
+          "The problem of substance — what is most real?",
+          "Form, matter, and the composite — hylomorphism.",
+          "Essence and definition — what makes you you?",
+          "Writing due: 500 words on Aristotelian substance."
+        ],
+        "week-4": [
+          "Metaphysics XII — the unmoved mover.",
+          "The argument for the first mover — actuality and potentiality.",
+          "God as thought thinking itself.",
+          "Synthesis: Aristotle vs Plato on what is most real.",
+          "Unit essay due: 2,000 words on substance and causation."
+        ]
+      },
+      "unit-4": {
+        "week-1": [
+          "Begin Nicomachean Ethics I — the good for humans.",
+          "Happiness (eudaimonia) — is it pleasure, honor, or something else?",
+          "The function argument — what is the work (ergon) of a human being?",
+          "Happiness as activity of the soul in accordance with virtue.",
+          "Writing due: 500 words on the function argument."
+        ],
+        "week-2": [
+          "NE II-III — virtue, habituation, and choice.",
+          "Virtue as a mean between extremes.",
+          "Voluntary action and responsibility — when are we culpable?",
+          "The role of habituation — we become just by doing just acts.",
+          "Writing due: 500 words on virtue as a mean."
+        ],
+        "week-3": [
+          "NE VI-VII — intellectual virtues and weakness of will.",
+          "Phronesis (practical wisdom) — why can't ethics be a science?",
+          "Akrasia (weakness of will) — how can we know the good and fail to do it?",
+          "Aristotle vs Socrates on whether virtue is knowledge.",
+          "Writing due: 500 words on practical wisdom."
+        ],
+        "week-4": [
+          "NE VIII-X — friendship and the contemplative life.",
+          "The three kinds of friendship — utility, pleasure, virtue.",
+          "The contemplative life vs the political life.",
+          "Synthesis: What is the best human life according to Aristotle?",
+          "Semester essay due: 3,000 words comparing Plato and Aristotle."
+        ]
+      }
+    }
+  }
+}

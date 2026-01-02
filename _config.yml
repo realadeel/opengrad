@@ -1,0 +1,16 @@
+title: OpenGrad
+description: A self-directed, AI-facilitated PhD in Continental Philosophy
+theme: minima
+markdown: kramdown
+
+# Navigation
+header_pages:
+  - program-overview.md
+  - semester-1/overview.md
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
