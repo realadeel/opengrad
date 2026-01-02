@@ -1,24 +1,30 @@
 ---
 layout: home
-title: Home
+title: OpenGrad
 ---
 
 # OpenGrad
 
-A self-directed, AI-facilitated PhD program in continental philosophy.
+**Self-directed, AI-facilitated graduate programs.**
 
-## Current: Semester 1
+OpenGrad offers rigorous, multi-year programs of study modeled on doctoral programs at top institutions. Each program is:
 
-- [Program Overview](program-overview.md)
-- [Semester 1 Overview](semester-1/overview.md)
-
-### Units
-
-- [Unit 1: Plato I — The Socratic Dialogues](semester-1/unit-1-plato-socratic.md)
-- [Unit 2: Plato II — The Republic](semester-1/unit-2-plato-republic.md)
-- [Unit 3: Aristotle I — Metaphysics](semester-1/unit-3-aristotle-metaphysics.md)
-- [Unit 4: Aristotle II — Ethics](semester-1/unit-4-aristotle-ethics.md)
+- **Graduate-level**: Equivalent in depth, rigor, and comprehensiveness to a doctoral program
+- **Self-paced**: 10-15 hours/week alongside full-time work
+- **AI-facilitated**: Curriculum designed with AI, writing evaluated by AI, discussion deepened by AI
+- **Non-credentialed**: No degree, no certificate—only genuine formation
+- **Primary sources**: Read alone, in silence, without assistance. AI operates at the level of program, not at the level of reading.
 
 ---
 
-*Join the [Discord](https://discord.gg/opengrad) for daily notifications and discussion.*
+## Programs
+
+### [Continental Philosophy PhD](continental-philosophy-phd/)
+
+A 4-year program covering the tradition from Plato through phenomenology, critical theory, and post-structuralism.
+
+**Status:** Year 1, Semester 1 — *Starts January 5, 2026*
+
+---
+
+*More programs coming soon.*
