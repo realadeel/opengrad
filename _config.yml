@@ -7,6 +7,10 @@ markdown: kramdown
 url: https://realadeel.github.io
 baseurl: /opengrad
 
+# Navigation - only show these pages in header
+header_pages:
+  - continental-philosophy-phd/index.md
+
 # Defaults
 defaults:
   - scope:
