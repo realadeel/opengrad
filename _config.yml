@@ -1,12 +1,11 @@
 title: OpenGrad
-description: A self-directed, AI-facilitated PhD in Continental Philosophy
+description: Self-directed, AI-facilitated graduate programs. Rigorous multi-year curricula modeled on doctoral programs at top institutions.
 theme: minima
 markdown: kramdown
 
-# Navigation
-header_pages:
-  - program-overview.md
-  - semester-1/overview.md
+# SEO
+url: https://realadeel.github.io
+baseurl: /opengrad
 
 # Defaults
 defaults:

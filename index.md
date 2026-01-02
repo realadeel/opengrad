@@ -1,9 +1,8 @@
 ---
 layout: home
-title: OpenGrad
+title: Home
+description: Self-directed, AI-facilitated graduate programs modeled on doctoral programs at top institutions.
 ---
-
-# OpenGrad
 
 **Self-directed, AI-facilitated graduate programs.**
 
