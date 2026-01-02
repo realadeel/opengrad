@@ -1,0 +1,18 @@
+# Personal work - not version controlled
+work/
+journal/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Notes and scratch
+scratch/
+notes/
