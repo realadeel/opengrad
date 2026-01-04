@@ -54,7 +54,7 @@ Join the Discord to receive notifications about current unit readings and assign
 
 ---
 
-## Programs
+## Programs {#programs}
 
 ### [Continental Philosophy PhD](continental-philosophy-phd/)
 
