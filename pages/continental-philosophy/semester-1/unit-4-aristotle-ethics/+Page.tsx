@@ -1,4 +1,4 @@
-import Content from '../../../../content/continental-philosophy-phd/semester-1/unit-4-aristotle-ethics.mdx'
+import Content from '../../../../content/continental-philosophy/semester-1/unit-4-aristotle-ethics.mdx'
 
 export default function Page() {
   return (

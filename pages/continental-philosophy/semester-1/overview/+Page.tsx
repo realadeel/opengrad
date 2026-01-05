@@ -1,4 +1,4 @@
-import Content from '../../../../content/continental-philosophy-phd/semester-1/unit-2-plato-republic.mdx'
+import Content from '../../../../content/continental-philosophy/semester-1/overview.mdx'
 
 export default function Page() {
   return (
