@@ -4,5 +4,5 @@ export default {
   extends: vikeReact,
   prerender: true,
   title: 'OpenGrad',
-  description: 'Self-directed, AI-facilitated graduate programs.',
+  description: 'Rigorous, AI-facilitated graduate programs.',
 }
