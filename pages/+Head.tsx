@@ -2,9 +2,25 @@ export function Head() {
   const title = 'OpenGrad'
   const description = 'Rigorous, AI-facilitated graduate programs.'
   const url = 'https://opengrad-sigma.vercel.app'
+  const gaId = import.meta.env.VITE_GA_ID
 
   return (
     <>
+      {/* Google Analytics */}
+      {gaId && (
+        <>
+          <script async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`} />
+          <script dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', '${gaId}');
+            `
+          }} />
+        </>
+      )}
+
       {/* Fonts */}
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
