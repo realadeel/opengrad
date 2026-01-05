@@ -1,7 +1,7 @@
 export function Head() {
   const title = 'OpenGrad'
   const description = 'Rigorous, AI-facilitated graduate programs.'
-  const url = 'https://opengrad-sigma.vercel.app'
+  const url = 'https://opengrad.school'
   const gaId = import.meta.env.VITE_GA_ID
 
   return (

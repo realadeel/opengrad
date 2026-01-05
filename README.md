@@ -2,7 +2,7 @@
 
 Rigorous, AI-facilitated graduate programs.
 
-**[opengrad.org →](https://opengrad.org)**
+**[opengrad.school →](https://opengrad.school)**
 
 ---
 
