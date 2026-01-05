@@ -1,0 +1,35 @@
+# Personal work - not version controlled
+work/
+journal/
+
+# Environment variables
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Vite
+.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Notes and scratch
+scratch/
+notes/
+
+# Logs
+*.log
+npm-debug.log*
