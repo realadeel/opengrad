@@ -11,7 +11,7 @@ export default function Page() {
       <div className="my-8 p-6 border-2 border-black">
         <h3 className="mt-0">Join the Waitlist</h3>
         <p className="mb-4">The first cohort started January 2026. Leave your email to join a future cohort.</p>
-        <SignupForm program="continental-philosophy" source="continental-philosophy" />
+        <SignupForm cohortId="cp-spring-2026" source="continental-philosophy" />
       </div>
 
       <hr />

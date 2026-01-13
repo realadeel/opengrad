@@ -1,13 +1,13 @@
 import { useState } from 'react'
 
 interface Props {
-  program?: string
+  cohortId: string
   source: string
 }
 
 const API_URL = import.meta.env.VITE_SIGNUP_API_URL
 
-export function SignupForm({ program, source }: Props) {
+export function SignupForm({ cohortId, source }: Props) {
   const [email, setEmail] = useState('')
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
   const [errorMessage, setErrorMessage] = useState('')
@@ -28,7 +28,7 @@ export function SignupForm({ program, source }: Props) {
       const response = await fetch(API_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email, program, source }),
+        body: JSON.stringify({ email, cohort_id: cohortId, source }),
       })
 
       const data = await response.json()

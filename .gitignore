@@ -33,3 +33,5 @@ notes/
 # Logs
 *.log
 npm-debug.log*
+
+repomix*

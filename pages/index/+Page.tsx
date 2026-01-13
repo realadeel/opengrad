@@ -8,7 +8,7 @@ export default function Page() {
       <hr />
       <h2>Join the Waitlist</h2>
       <p>We'll reach out when programs open for enrollment.</p>
-      <SignupForm source="home" />
+      <SignupForm cohortId="cp-spring-2026" source="home" />
     </article>
   )
 }
